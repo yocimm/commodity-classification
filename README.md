@@ -12,7 +12,7 @@ This project is aimed at classifying agricultural commodities into distinct cate
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/commodity-classification.git
+git clone [https://github.com/yocimm/commodity-classification.git]
 ```
 
 Install the necessary dependencies:
